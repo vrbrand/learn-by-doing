@@ -4,4 +4,4 @@ navbar:
   title: "Welcome!"
   left:
     - text: "Overview"
-      href: index.html
+      href: Teaching.html
