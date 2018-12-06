@@ -1,0 +1,7 @@
+name: learn-by-doing
+output_dir: "."
+navbar:
+  title: “Welcome”
+  left:
+    - text: "Overview"
+      href: index.html
